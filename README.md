@@ -7,7 +7,7 @@
 - 🎓 Estudando **TSI** no <a href="https://portal.ifrn.edu.br/campus/curraisnovos/">IFRN</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Análise de dados, análise de requisitos e UI/UX**.
 
-<h3>Minhas Skills</h3>
+<h3>Skills que estou estudando</h3>
 
 **Aplicações e dados**
 
