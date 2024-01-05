@@ -44,6 +44,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alesangela-bezerra-a76804201/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](linkedin.com/in/alesangelabezerra](LINK-DO-SEU-LINKEDIN)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/alesangelabezerra)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/lelebezerra8/?hl=pt-br)
