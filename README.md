@@ -3,7 +3,7 @@
 
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias relacionada a área de análise de dados, UI/UX e  análise de reqisitos.
+- 🤔 Explorando novas tecnologias relacionada a área de análise de dados, UI/UX e  análise de requisitos.
 - 🎓 Estudando **TSI** no <a href="https://portal.ifrn.edu.br/campus/curraisnovos/">IFRN</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Análise de dados, análise de requisitos e UI/UX**.
 
